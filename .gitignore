@@ -11,6 +11,5 @@
 *.suo
 
 #Í¼ÏñÎÄ¼ş¹ıÂË
-/AerialProduct/*.jpg
 /HyperSpectralProduct/*.bmp
 /HyperSpectralProduct/*.tif
