@@ -1,0 +1,16 @@
+#Debug ipch文件夹过滤
+/ipch/
+/AerialProduct/Debug/
+/HyperSpectralProduct/Debug/
+/ImgProcLibrary/Debug/
+
+#Sdf文件过滤
+*.sdf
+*.opensdf
+#suo文件过虑
+*.suo
+
+#图像文件过滤
+/AerialProduct/*.jpg
+/HyperSpectralProduct/*.bmp
+/HyperSpectralProduct/*.tif
